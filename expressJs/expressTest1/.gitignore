@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# npm Cache
+.npm
+
+# Build Output (if applicable)
+build/  # Adjust if your build directory has a different name
+
+# Temporary Files
+*.log
+.env.local  # Add other sensitive environment variables here
+
+# Testing Coverage (optional)
+coverage/
+
+# IDE Specific Files
+# Adjust based on your IDE (VS Code, WebStorm, etc.)
+# Examples:
+.vscode/
+.idea/
+
+# OS Specific Files
+.DS_Store  # macOS
+thumbs.db   # Windows
+
+# Editor Backups
+*~
